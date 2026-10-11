@@ -181,11 +181,6 @@ Mi día a día gira en torno al ecosistema de **JavaScript** y **TypeScript**, d
 
 ### 📊 Métricas, Gráficos & Actividad
 
-<!-- 1. Calendario de Contribuciones Anual con Brillo Cyan -->
-<div align="center">
-  <h4>📅 Calendario Anual de Contribuciones</h4>
-  <img src="https://ghchart.rshah.org/00E5FF/SamuelBorda" alt="Calendario de Contribuciones Samuel Borda" width="100%" />
-</div>
 
 <br />
 
