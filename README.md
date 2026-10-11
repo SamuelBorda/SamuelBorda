@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Dinámico con Animación de Olas y Estrellas Titilantes (Pure OLED Black) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SAMUEL%20BORDA&fontSize=52&fontColor=FFFFFF&animation=twinkling&desc=FULL%20STACK%20%E2%80%A2%20DEVOPS%20%E2%80%A2%203D%20WEB%20%26%20VR/AR&descFontSize=16&descFontColor=00E5FF" width="100%" alt="Samuel Borda Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SAMUEL%20BORDA&fontSize=52&fontColor=FFFFFF&animation=twinkling&desc=FULL%20STACK%20%7C%20DEVOPS%20%7C%203D%20WEB%20%2B%20VR%2FAR&descFontSize=16&descFontColor=00E5FF" width="100%" alt="Samuel Borda Header" />
 
   <!-- Typing SVG con Resplandor Cyan Eléctrico -->
   <p align="center">
