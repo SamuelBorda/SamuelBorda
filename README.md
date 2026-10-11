@@ -82,59 +82,139 @@ Mi día a día gira en torno al ecosistema de **JavaScript** y **TypeScript**, d
 
 ---
 
-### 📂 Proyectos Destacados (Conectados a GitHub)
+### 🚀 Proyectos Destacados (Conectados a GitHub)
 
-<div align="center">
-
-  <a href="https://github.com/SamuelBorda/ARbussinescardAndGlbAnimate.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=ARbussinescardAndGlbAnimate.github.io&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" alt="AR Business Card" />
-  </a>
-  <a href="https://github.com/SamuelBorda/Wake-On-Wlan-with-ESP32-and-MQTT-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=Wake-On-Wlan-with-ESP32-and-MQTT-&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" alt="Wake On Wlan ESP32" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/SamuelBorda/Poke-Tinder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=Poke-Tinder&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" alt="Poke Tinder" />
-  </a>
-  <a href="https://github.com/SamuelBorda/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=weather-app&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" alt="Weather App" />
-  </a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🕶️ AR Business Card & 3D Web</h3>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/ARbussinescardAndGlbAnimate.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=ARbussinescardAndGlbAnimate.github.io&bg_color=000000&border_color=00E5FF&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" width="100%" alt="AR Business Card Pin" />
+        </a>
+      </p>
+      <p>Tarjeta de presentación interactiva con realidad aumentada y renderizado 3D de modelos GLTF/GLB animados directamente en el navegador.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=00E5FF" alt="Three.js" />
+        <img src="https://img.shields.io/badge/WebXR-000000?style=flat-square&logo=webxr&logoColor=FFFFFF" alt="WebXR" />
+        <img src="https://img.shields.io/badge/GLTF_Anim-000000?style=flat-square&logo=blender&logoColor=E87D0D" alt="GLTF" />
+      </p>
+      <p align="center">
+        <a href="https://SamuelBorda.github.io/ARbussinescardAndGlbAnimate.github.io"><b>🌐 Demo en Vivo</b></a> &nbsp;•&nbsp; 
+        <a href="https://github.com/SamuelBorda/ARbussinescardAndGlbAnimate.github.io"><b>💻 Repositorio</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Wake On WLAN (ESP32 + MQTT)</h3>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/Wake-On-Wlan-with-ESP32-and-MQTT-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=Wake-On-Wlan-with-ESP32-and-MQTT-&bg_color=000000&border_color=00E5FF&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" width="100%" alt="Wake On Wlan Pin" />
+        </a>
+      </p>
+      <p>Solución DevOps & IoT para el encendido remoto de equipos por red inalámbrica a través del broker MQTT con microcontroladores ESP32.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+        <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
+        <img src="https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipsemosquitto&logoColor=660066" alt="MQTT" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/Wake-On-Wlan-with-ESP32-and-MQTT-"><b>💻 Repositorio & Docs</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Poke-Tinder</h3>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/Poke-Tinder">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=Poke-Tinder&bg_color=000000&border_color=00E5FF&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" width="100%" alt="Poke Tinder Pin" />
+        </a>
+      </p>
+      <p>Aplicación web interactiva que simula la mecánica de matching con tarjetas deslizables consumiendo la PokeAPI con JavaScript moderno y animaciones CSS fluidas.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JS" />
+        <img src="https://img.shields.io/badge/PokeAPI-000000?style=flat-square&logo=pokemon&logoColor=FFCB05" alt="API" />
+        <img src="https://img.shields.io/badge/CSS3_Anim-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/Poke-Tinder"><b>💻 Repositorio</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌦️ Weather App</h3>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/weather-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelBorda&repo=weather-app&bg_color=000000&border_color=00E5FF&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&show_owner=false" width="100%" alt="Weather App Pin" />
+        </a>
+      </p>
+      <p>Plataforma meteorológica con consumo asíncrono de APIs en tiempo real, interfaz responsiva y renderizado dinámico de pronósticos del clima.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JS" />
+        <img src="https://img.shields.io/badge/Async_Fetch-000000?style=flat-square&logo=fastapi&logoColor=00E5FF" alt="Async" />
+        <img src="https://img.shields.io/badge/HTML5_UI-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/SamuelBorda/weather-app"><b>💻 Repositorio</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <details>
-<summary><b>🔍 Explorar Tabla Completa de Proyectos</b></summary>
+<summary><b>🔍 Explorar Lista Completa de Repositorios</b></summary>
 <br />
 
-| Proyecto | Categoría | Tecnologías Clave | Enlace |
+| Proyecto | Especialidad | Tecnologías Clave | Acceso |
 | :--- | :--- | :--- | :---: |
-| **AR Business Card & GLB Animation** | `3D Web / AR` | Three.js • WebXR • GLTF/GLB • JS | [Ver Código](https://github.com/SamuelBorda/ARbussinescardAndGlbAnimate.github.io) |
-| **Wake On WLAN con ESP32 & MQTT** | `DevOps / IoT` | C++ • MQTT Protocol • ESP32 • Networks | [Ver Código](https://github.com/SamuelBorda/Wake-On-Wlan-with-ESP32-and-MQTT-) |
-| **Servidor Minecraft 1.20.1** | `DevOps / SysAdmin` | Linux • Docker • Automation Scripts | [Ver Código](https://github.com/SamuelBorda/Servidor-MineCraft-1.20.1) |
-| **Poke-Tinder** | `Full Stack / Front` | JavaScript • REST APIs • Responsive UI | [Ver Código](https://github.com/SamuelBorda/Poke-Tinder) |
-| **Weather App** | `Frontend / APIs` | JavaScript • Async APIs • CSS3 | [Ver Código](https://github.com/SamuelBorda/weather-app) |
-| **Healthy Soul** | `Web Platform` | JavaScript • HTML5 • CSS3 | [Ver Código](https://github.com/SamuelBorda/Healthy_Soul) |
+| **AR Business Card & GLB Animation** | `3D Web / AR` | Three.js • WebXR • GLTF/GLB • JS | [Ver Proyecto](https://github.com/SamuelBorda/ARbussinescardAndGlbAnimate.github.io) |
+| **Wake On WLAN con ESP32 & MQTT** | `DevOps / IoT` | C++ • MQTT Protocol • ESP32 • Networks | [Ver Proyecto](https://github.com/SamuelBorda/Wake-On-Wlan-with-ESP32-and-MQTT-) |
+| **Servidor Minecraft 1.20.1** | `DevOps / SysAdmin` | Linux • Docker • Automation Scripts | [Ver Proyecto](https://github.com/SamuelBorda/Servidor-MineCraft-1.20.1) |
+| **Poke-Tinder** | `Full Stack / Front` | JavaScript • REST APIs • Responsive UI | [Ver Proyecto](https://github.com/SamuelBorda/Poke-Tinder) |
+| **Weather App** | `Frontend / APIs` | JavaScript • Async APIs • CSS3 | [Ver Proyecto](https://github.com/SamuelBorda/weather-app) |
+| **Healthy Soul** | `Web Platform` | JavaScript • HTML5 • CSS3 | [Ver Proyecto](https://github.com/SamuelBorda/Healthy_Soul) |
 
 </details>
 
 ---
 
-### 📊 Métricas & Estadísticas de Rendimiento
+### 📊 Métricas, Gráficos & Actividad
 
+<!-- 1. Calendario de Contribuciones Anual con Brillo Cyan -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelBorda&show_icons=true&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&hide_border=false" alt="Samuel Borda Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBorda&layout=compact&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&hide_border=false" alt="Top Languages" />
+  <h4>📅 Calendario Anual de Contribuciones</h4>
+  <img src="https://ghchart.rshah.org/00E5FF/SamuelBorda" alt="Calendario de Contribuciones Samuel Borda" width="100%" />
 </div>
 
 <br />
 
-<!-- Streak con animación de fuego y acentos eléctricos -->
+<!-- 2. Tarjetas de Estadísticas Principales & Gráfico Donut de Lenguajes -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelBorda&show_icons=true&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&hide_border=false" alt="Samuel Borda Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelBorda&layout=donut&bg_color=000000&border_color=22272E&title_color=00E5FF&text_color=9CA3AF&icon_color=00E5FF&hide_border=false" alt="Top Languages Donut" />
+</div>
+
+<br />
+
+<!-- 3. Gráficos de Resumen de Actividad y Distribución por Lenguaje (Cyber 2077 Theme) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelBorda&theme=2077" alt="Profile Details Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelBorda&theme=2077" alt="Repos Per Language Graph" />
+</div>
+
+<br />
+
+<!-- 4. Racha de Contribuciones Dinámica con Fuego Neón -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelBorda&theme=dark&background=000000&border=22272E&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<!-- Contador de Visitas Minimalista -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamuelBorda&color=00E5FF&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Profile Views" />
 </div>
 
 ---
