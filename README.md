@@ -1,18 +1,21 @@
 <div align="center">
 
   <!-- Header Banner Dinámico con Animación de Olas y Estrellas Titilantes (Pure OLED Black) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SAMUEL%20BORDA&fontSize=52&fontColor=FFFFFF&animation=twinkling&desc=FULL%20STACK%20%E2%80%A2%20DEVOPS%20%E2%80%A2%203D%20WEB%20%26%20VR%2FAR&descFontSize=16&descFontColor=00E5FF" width="100%" alt="Samuel Borda Header" />
-
-  <!-- Espacio para Foto de Perfil con Marco Circular y Resplandor Cyan -->
-  <a href="https://github.com/SamuelBorda">
-    <img src="https://github.com/SamuelBorda.png" width="125" height="125" alt="Samuel Borda" style="border-radius: 50%; border: 3px solid #00E5FF; box-shadow: 0 0 25px rgba(0, 229, 255, 0.45); margin-top: -30px;" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SAMUEL%20BORDA&fontSize=52&fontColor=FFFFFF&animation=twinkling&desc=FULL%20STACK%20%E2%80%A2%20DEVOPS%20%E2%80%A2%203D%20WEB%20%26%20VR/AR&descFontSize=16&descFontColor=00E5FF" width="100%" alt="Samuel Borda Header" />
 
   <!-- Typing SVG con Resplandor Cyan Eléctrico -->
   <p align="center">
     <a href="https://github.com/SamuelBorda">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1100&color=00E5FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=%E2%9A%A1+Full+Stack+Developer+%26+DevOps+Engineer;%F0%9F%9A%80+Mastering+TypeScript+%26+Modern+JavaScript;%F0%9F%A5%BD+Crafting+3D+Web+Experiences+with+Three.js;%F0%9F%8C%90+Developing+Interactive+VR%2FAR+Applications" alt="Typing SVG" />
     </a>
+  </p>
+
+  <!-- Píldoras de Especialidad y Enfoque Profesional -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Architecture-Full%20Stack-000000?style=flat-square&logo=blueprint&logoColor=00E5FF&labelColor=000000&color=22272E" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/Culture-DevOps%20%26%20Cloud-000000?style=flat-square&logo=docker&logoColor=00E5FF&labelColor=000000&color=22272E" alt="DevOps" />
+    <img src="https://img.shields.io/badge/Creative-Three.js%20%26%203D%20Web-000000?style=flat-square&logo=threedotjs&logoColor=00E5FF&labelColor=000000&color=22272E" alt="3D Web" />
+    <img src="https://img.shields.io/badge/Immersion-VR%20%2F%20AR-000000?style=flat-square&logo=webxr&logoColor=00E5FF&labelColor=000000&color=22272E" alt="VR AR" />
   </p>
 
   <!-- Botones de Contacto y Redes con Fondo Negro Puro y Logos Oficiales -->
@@ -34,19 +37,14 @@
 
 ### 🌑 Sobre Mí
 
-```typescript
-const developer: Profile = {
-  name: "Samuel Borda",
-  focus: ["Full Stack Development", "DevOps & Cloud Automation", "3D Web & XR"],
-  coreStack: ["TypeScript", "JavaScript", "Node.js", "Docker", "Three.js"],
-  currentExploration: "Three.js Shaders, WebGL/WebXR Pipelines & Spatial Audio",
-  philosophy: "Arquitecturas limpias, rendimiento extremo e interactividad inmersiva"
-};
-```
+¡Hola! 👋 Soy **Samuel Borda**, desarrollador enfocado en soluciones integrales **Full Stack** y cultura **DevOps**, combinando la ingeniería de software escalable con el desarrollo de experiencias visuales interactivas en **3D Web**, **VR** y **AR**.
 
-- 🚀 **Especialización:** Desarrollo de aplicaciones completas de alto rendimiento y pipelines DevOps continuos.
-- 🥽 **3D Web & Extended Reality:** Construcción de escenas interactivas con **Three.js**, renderizado **WebGL/WebXR** y optimización de modelos **GLTF/GLB**.
-- ⚙️ **Infraestructura & Hardware:** Implementación de servidores en Linux, contenedores Docker y conectividad IoT mediante protocolos **MQTT** y microcontroladores **ESP32**.
+Mi día a día gira en torno al ecosistema de **JavaScript** y **TypeScript**, donde diseño arquitecturas frontend y backend limpias, automatizo despliegues e infraestructuras con **Docker** y **Linux**, y creo entornos inmersivos en el navegador utilizando **Three.js** y **WebGL**.
+
+- 🔭 **¿En qué estoy trabajando actualmente?** Desarrollando aplicaciones web Full Stack de extremo a extremo e integrando escenas interactivas en 3D con modelos y animaciones GLTF/GLB optimizadas.
+- ⚙️ **DevOps & Automatización:** Implementación de servidores Linux, flujos de CI/CD, contenedorización con Docker y comunicación en tiempo real con protocolos **MQTT** y microcontroladores **ESP32**.
+- 🥽 **Frontera 3D & XR:** Profundizando en shaders, físicas en la web y experiencias inmersivas con WebXR y realidad aumentada.
+- 💬 **Hablemos sobre:** TypeScript, arquitecturas escalables, Three.js, automatización con Docker o proyectos de IoT.
 
 ---
 
